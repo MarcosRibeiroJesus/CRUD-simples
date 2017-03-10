@@ -25,7 +25,8 @@
       %>
       
         <tr>
-          <td><%=contato.getNome() %></td> 
+          <td><%=contato.getNome() %></td>
+          <td><%=contato.getTelefone() %></td> 
           <td><%=contato.getEmail() %></td>
           <td><%=contato.getProfissao() %></td>
           <td><%=contato.getDataNascimento().getTime() %></td>

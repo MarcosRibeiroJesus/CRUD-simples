@@ -3,13 +3,13 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   	<modelVersion>4.0.0</modelVersion>
   
-  	<groupId>fj21-agenda</groupId>
-  	<artifactId>fj21-agenda</artifactId>
+  	<groupId>CRUD-Indra</groupId>
+  	<artifactId>CRUD-Indra</artifactId>
   	<version>1.0</version>
   	<packaging>war</packaging>
   
-  	<name>fj21</name>
-  	<description>Caelum FJ21 Course by Marcos Ribeiro</description>
+  	<name>CRUD-Indra</name>
+  	<description>CRUD-Indra by Marcos Ribeiro</description>
 
 <dependencies> 
 

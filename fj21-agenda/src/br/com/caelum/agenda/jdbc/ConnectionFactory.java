@@ -12,7 +12,7 @@ public class ConnectionFactory {
 
 			DriverManager.registerDriver(new com.mysql.jdbc.Driver());
             return DriverManager.getConnection(
-          "jdbc:mysql://sql3.freemysqlhosting.net:3306/sql3162838", "sql3162838", "MK7eEvLQ4s");
+          "jdbc:mysql://localhost:3306/fj21", "root", "root1nh4");
         } catch (SQLException e) {
             throw new RuntimeException(e);
         }

@@ -82,7 +82,7 @@ public class ContatoDao {
 
 	}
 
-	public void remove(Contato contato) {
+	public void exclui(Contato contato) {
 
 		try {
 
